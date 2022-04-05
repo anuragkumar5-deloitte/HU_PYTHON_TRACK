@@ -1,3 +1,4 @@
+
 rows = int(input("Enter the number of rows: "))
 
 # It is used to print the space
